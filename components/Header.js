@@ -1,7 +1,7 @@
 import html from "html-literal";
 
-export default () => html`
+export default st => html`
   <header>
-    <h1>Example Pre-SPA Multi-Page Site</h1>
+    <h1>${st.header}</h1>
   </header>
 `;

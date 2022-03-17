@@ -1,5 +1,5 @@
 export default {
-  header: "My Home Page",
+  header: "Welcome to Space Oddities!",
   view: "Home",
   weather: {}
 };

@@ -63,7 +63,7 @@
 109C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\@parcel\package-manager\src\MockPackageInstaller.js132905720854983793 0
 88C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\lodash\_createMathOperation.js132907477287923103 0
 71C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\axios\lib\env132914254700631522 1
-49C:\Users\jakep\code\SavvyCoders\classSPA2022\dist132914417335998049 1
+49C:\Users\jakep\code\SavvyCoders\classSPA2022\dist132916059327483875 1
 131C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\bar.js132905720848311632 0
 74C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\lodash\omitBy.js132907477292780110 0
 72C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\balanced-match132905701100931024 1
@@ -87,7 +87,7 @@
 97C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\css-tree\lib\syntax\node\Parentheses.js132905720857372736 0
 86C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\svgo\plugins\inlineStyles.js132905720851912004 0
 77C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\lodash\fp\propEq.js132907477293099257 0
-55C:\Users\jakep\code\SavvyCoders\classSPA2022\index.html132906663742702952 0
+55C:\Users\jakep\code\SavvyCoders\classSPA2022\index.html132916054395431777 0
 117C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj132905720868398482 0
 71C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\node-releases132905720847184652 1
 105C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\@parcel\reporter-dev-server\src\serverErrors.js132905720852450563 0
@@ -189,10 +189,10 @@
 79C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\lodash\fp\toNumber.js132907477294276108 0
 83C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\domhandler\lib\index.d.ts132905720845379472 0
 55C:\Users\jakep\code\SavvyCoders\classSPA2022\_redirects132906663825610577 0
-57C:\Users\jakep\code\SavvyCoders\classSPA2022\store\Bio.js132907418188925980 0
+57C:\Users\jakep\code\SavvyCoders\classSPA2022\store\Bio.js132916057874681306 0
 113C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-gnu.node132905720858225688 0
 88C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\axios\lib\helpers\validator.js132914254700227144 0
-58C:\Users\jakep\code\SavvyCoders\classSPA2022\store\Home.js132914372713454659 0
+58C:\Users\jakep\code\SavvyCoders\classSPA2022\store\Home.js132916058283157580 0
 86C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\htmlnano\docs\versioned_docs132905720855352803 1
 88C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\uri-js\dist\esnext\util.js.map132905701102432358 0
 74C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\nanoid\README.md132905720849139423 0
@@ -2552,7 +2552,7 @@
 86C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\path-browserify\CHANGELOG.md132914417306530997 0
 105C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\postcss-normalize-timing-functions\src\index.js132905720843319922 0
 95C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\postcss-normalize-string\package.json132905720844072966 0
-71C:\Users\jakep\code\SavvyCoders\classSPA2022\dist\index.3d214d75.js.map132914417333100674 0
+71C:\Users\jakep\code\SavvyCoders\classSPA2022\dist\index.3d214d75.js.map132916059327334525 0
 87C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\js-yaml\lib\type\timestamp.js132905701102327290 0
 80C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\postcss\lib\at-rule.js132905720846027741 0
 86C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\postcss-normalize-string\src132905720842981166 1
@@ -4934,7 +4934,7 @@
 92C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\@parcel\core\lib\RequestTracker.js132905720859193099 0
 69C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\conf132905701106803558 1
 68C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\lib132905701106653965 1
-67C:\Users\jakep\code\SavvyCoders\classSPA2022\dist\index.3d214d75.js132914417333070759 0
+67C:\Users\jakep\code\SavvyCoders\classSPA2022\dist\index.3d214d75.js132916059327314337 0
 77C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\package.json132905701106793586 0
 94C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\messages\all-files-ignored.js132905701101180354 0
 98C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\messages\extend-config-missing.js132905701103110551 0
@@ -4949,7 +4949,7 @@
 105C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\@parcel\resolver-default\lib\DefaultResolver.js132905720851552963 0
 89C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\caniuse-lite\data\regions\BM.js132905720856220481 0
 80C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\lib\rule-tester132905701106055565 1
-60C:\Users\jakep\code\SavvyCoders\classSPA2022\dist\index.html132914417335898328 0
+60C:\Users\jakep\code\SavvyCoders\classSPA2022\dist\index.html132916054402882089 0
 95C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\caniuse-lite\data\features\imports.js132905720863890535 0
 75C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\lib\shared132905701106624045 1
 80C:\Users\jakep\code\SavvyCoders\classSPA2022\node_modules\eslint\lib\source-code132905701106304900 1
@@ -7148,5 +7148,5 @@
 64C:\Users\jakep\code\SavvyCoders\classSPA2022\components\index.js132906670979610000 0
 63C:\Users\jakep\code\SavvyCoders\classSPA2022\components\Main.js132907458370675253 0
 61C:\Users\jakep\code\SavvyCoders\classSPA2022\components\views132906671034524570 1
-68C:\Users\jakep\code\SavvyCoders\classSPA2022\components\views\Bio.js132906647664960000 0
+68C:\Users\jakep\code\SavvyCoders\classSPA2022\components\views\Bio.js132916059342366784 0
 70C:\Users\jakep\code\SavvyCoders\classSPA2022\components\views\Pizza.js132914383817299345 0
